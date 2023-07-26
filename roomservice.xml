@@ -1,3 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <manifest> 
+ 
+
+ 
 <project name="srampv/android_device_samsung_gtaxlwifi" path="device/samsung/gtaxlwifi" remote="github" />
-  <project name="srampv/android_kernel_samsung_exynos7870" path="kernel/samsung/exynos7870" remote="github" />
-  <project name="srampv/android_vendor_samsung_gtaxlwifi" path="vendor/samsung/gtaxlwifi" remote="github" />
+  <project name="srampv/gtaxl_kernel_samsung_exynos7870" path="kernel/samsung/exynos7870" remote="github" />
+  <project name="srampv/android_vendor_samsung_gtaxlwifi" path="vendor/samsung/gtaxlwifi" remote="github" /> 
+ </manifest>
